@@ -1,5 +1,11 @@
 香港台,#genre#
 翡翠台,http://php.jdshipin.com:8880/smt.php?id=jade_twn
+无线新闻台,http://live.cooltv.top/tv/tvb.php?id=0&hq
+ViuTV,http://grandprix2023.asuscomm.com:8889/bysid/99.m3u8
+
 
 台湾台,#genre#
 民视新闻台,http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
+三立新闻台,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8543/.m3u8
+东森新闻台,http://37.27.111.214:8080/live/20/hls.m3u8
+东森财经台,http://4gtv.mumi.rip:9877/293/4gtv-4gtv153/index.m3u8
