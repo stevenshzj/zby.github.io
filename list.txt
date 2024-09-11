@@ -1,1 +1,4 @@
-
+香港台,#genre#
+翡翠台,https://pi.0472.org/tv/fct.php?auth=230918
+台湾台,#genre#
+民视新闻台,http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
