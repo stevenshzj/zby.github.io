@@ -1,11 +1,30 @@
-香港台,#genre#
+香港电视台,#genre#
 翡翠台,http://php.jdshipin.com:8880/smt.php?id=jade_twn
 无线新闻台,http://live.cooltv.top/tv/tvb.php?id=0&hq
 ViuTV,http://grandprix2023.asuscomm.com:8889/bysid/99.m3u8
 
 
-台湾台,#genre#
-民视新闻台,http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
-三立新闻台,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8543/.m3u8
-东森新闻台,http://37.27.111.214:8080/live/20/hls.m3u8
-东森财经台,http://4gtv.mumi.rip:9877/293/4gtv-4gtv153/index.m3u8
+台湾电视台,#genre#
+民视新闻,http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
+三立新闻,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8543/.m3u8
+东森新闻,http://37.27.111.214:8080/live/20/hls.m3u8
+东森财经,http://4gtv.mumi.rip:9877/293/4gtv-4gtv153/index.m3u8
+东森超视,http://38.64.72.148:80/hls/modn/list/2013/chunklist1.m3u8
+中天新闻,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8541/.m3u8
+中视,http://shuma004.chunfengyun.top:8080/live/7/hls.m3u8
+中视经典,http://shuma004.chunfengyun.top:8080/live/47/hls.m3u8
+人间卫视,http://37.27.111.214:8080/live/101/hls.m3u8
+八大综合台,http://61.221.215.25:8800/hls/56/index.m3u8
+公视戏剧台,http://37.27.111.214:8080/live/87/hls.m3u8
+华视,http://37.27.111.214:8080/live/8/hls.m3u8
+博斯无限,http://shuma004.chunfengyun.top:8080/live/15/hls.m3u8
+台视新闻,http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
+大爱一台,https://pulltv1.wanfudaluye.com/live/tv1.m3u8
+纬来戏剧,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8533/.m3u8
+纬来日本,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8537/.m3u8
+纬来精彩,http://61.221.215.25:8800/hls/48/index.m3u8
+靖天日本,http://4gtv.mumi.rip:9877/22/4gtv-4gtv047/index.m3u8
+靖天映画,http://4gtv.mumi.rip:9877/42/4gtv-4gtv055/index.m3u8
+非凡新闻,https://gat.zhoujie218.top/litv/4gtv-4gtv010
+龙华偶像,https://gat.zhoujie218.top/litv/litv-longturn12
+龙华电影,http://shuma004.chunfengyun.top:8080/live/19/hls.m3u8
