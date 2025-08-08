@@ -15,8 +15,6 @@ TBS News,https://manifest.googlevideo.com/api/manifest/hls_variant/expire/175467
 韩国阿里郎,https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1754674562/ei/IuGVaM26IMvSpt8PmsOU8Qs/ip/2400%3Abea0%3A1128%3A1dc%3A91da%3A72c9%3Aef60%3A55d0/id/CJVBX7KI5nU.6/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51554424/txs/51554424%2C51554425/hfr/1/maxh/4320/playlist_duration/30/manifest_duration/30/maudio/1/siu/1/bui/AY1jyLMhviBdTglimo4KSPERkEQcaCX0s-cFiY6pfwLEsaUnIjsnM1bUs6Ox4QsZo5ELKuCAQw/spc/l3OVKbV71LlYTYVWO4nkquoYUuwvMVLQwURZDSoRWMfj0lz8OBqbM9RdCUM9dU-Tm5m3/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51548755/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cmaxh%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Csiu%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhALiv1SsDjzE5AQXqElYZN3vFYliWXypJWzSp9yKaO6EBAiAbQGq61Kvn1VXAsJPFXhBoiDdWHiwsIu-1Zz-62aDs6w%3D%3D/file/index.m3u8
 
 
-有用电视台,#genre#
-港台电视32,https://rt-rtd.rttv.com/live/rtdoc/playlist_4500Kb.m3u8
 
 
 无用电视台,#genre#
